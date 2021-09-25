@@ -1,0 +1,14 @@
+.cart{
+  padding: 30px 20px;
+  box-shadow: 0px 10px 20px rgba(0,0,0,0.3);
+  border-radius: 10px;
+  position: sticky;
+  top: 0;
+}
+.cart h2{
+  font-size: 1.8rem;
+  color: #333;
+}
+.cart ul li{
+  list-style-type: square;
+}
